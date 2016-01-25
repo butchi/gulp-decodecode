@@ -1,5 +1,5 @@
 'use strict';
-var uglify = require('uglify-js');
+var uglify = require('decodecode');
 var minifier = require('./minifier');
 
 module.exports = function (opts) {
